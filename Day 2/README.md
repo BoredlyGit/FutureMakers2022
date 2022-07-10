@@ -1,0 +1,2 @@
+# Day 2 (7/7/22) Reflection
+Today, I learned about other (non-neural network) models of machine learning. These models included Decision (Classification/Regression) Trees, Random Forests, and Linear Regressions. I found it especially interesting how multiple trees could be combined in random forests to balance out each others' weaknesses, resulting in a more robust model. I didn't find anything todat particularly confusing.
